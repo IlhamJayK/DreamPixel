@@ -1084,6 +1084,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2029936457, guid: d7fca6b448bfa1d408ddbb5ba6100247, type: 3}
     - target: {fileID: 1952730951917006070, guid: 3c8eceeef93bba54bbde0f7f178ec2e1, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1952730951917006070, guid: 3c8eceeef93bba54bbde0f7f178ec2e1, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1943738313
+      objectReference: {fileID: 0}
+    - target: {fileID: 1952730951917006070, guid: 3c8eceeef93bba54bbde0f7f178ec2e1, type: 3}
       propertyPath: m_SpriteSortPoint
       value: 0
       objectReference: {fileID: 0}
@@ -3619,8 +3627,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1943738313
+  m_SortingLayer: -1
   m_SortingOrder: 0
   m_Sprite: {fileID: -52763499, guid: 3c117dbde093f0d42b1b9936a5dc73b7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4596,6 +4604,14 @@ PrefabInstance:
       propertyPath: logPrefab
       value: 
       objectReference: {fileID: 6420347651203915853, guid: a164673bdb2aa424cbe4acbbcb06254c, type: 3}
+    - target: {fileID: 2220098180067961551, guid: 57aba6c99534ca042bf004e04b3654e0, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2220098180067961551, guid: 57aba6c99534ca042bf004e04b3654e0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1943738313
+      objectReference: {fileID: 0}
     - target: {fileID: 3304934254285448467, guid: 57aba6c99534ca042bf004e04b3654e0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.91
@@ -4704,6 +4720,14 @@ PrefabInstance:
     - target: {fileID: 1936282906685697895, guid: 3c8eceeef93bba54bbde0f7f178ec2e1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1952730951917006070, guid: 3c8eceeef93bba54bbde0f7f178ec2e1, type: 3}
+      propertyPath: m_SortingLayer
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1952730951917006070, guid: 3c8eceeef93bba54bbde0f7f178ec2e1, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1943738313
       objectReference: {fileID: 0}
     - target: {fileID: 1952730951917006070, guid: 3c8eceeef93bba54bbde0f7f178ec2e1, type: 3}
       propertyPath: m_SpriteSortPoint
