@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 850c5a35c5652da49a65ad537b8192b1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 360
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4720
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48c842dc84c57b41b24a04f58641f9b
+      internalID: -595657570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_1
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 4720
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5282c68b661b5ef40a8d08c4675752f0
+      internalID: -1738584631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_2
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 4720
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f0612f6f330f4387be38fa6d2a6b5
+      internalID: -10555644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_3
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 4720
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72568e64c26fb594b8af3b664f42667b
+      internalID: 19182356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_4
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 4720
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d890e7716071cda4488ed4d32ab79823
+      internalID: 1309438617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3540
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa5487c860858f4a9136c65e25b6a8b
+      internalID: -444668714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_6
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3540
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2195510ea0728b54db460ba10298318e
+      internalID: -1810626151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_7
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3540
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01aaeae6d68924448b765e32a95a92c
+      internalID: 1719591215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_9
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 3540
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96721d4d4d9ab1d41860653c75fa663b
+      internalID: 1176958667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_11
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2360
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a481c98ec582348b8c03e6d0b2957e
+      internalID: 2046810484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_13
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2360
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bfd5c48f25e6b419afe68a048f5c5c
+      internalID: -1724972874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_16
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1180
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab3e3dc96d86b49afa8e27f6e2e10b
+      internalID: 1369018261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_18
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1180
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecebcdead4f8af64595f15ce7157949e
+      internalID: -177182731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcc2905f94d0b04984a51a30e4882fd
+      internalID: -1557405928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_21
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600ac64f6bf88cb43b00b1d4470c890e
+      internalID: 1377474779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_22
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 0
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866c3cc20e9d0a7448465b18822510fb
+      internalID: 1689260724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_23
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 0
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5137547c1d68549ab6c57cc1ba8801
+      internalID: 1181864527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_24
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 0
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbc11a9280f51b43b9dbb7e9d0ff9b8
+      internalID: 1862929111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_8
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3540
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4633b7f983552d7468e443ffdb88fa33
+      internalID: 1626865353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2360
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0a9add0b786134197f0ceed492f8e8
+      internalID: 1106814683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_12
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2360
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63733a8ab46706d45ad3ee695673e8f7
+      internalID: 594754414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_14
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 2360
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22bc1c7d8cc9df4eaf57a5abf858419
+      internalID: -954415381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7afe85bb71ff704fb5718dccb7f55be
+      internalID: 1546978953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_17
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1180
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd99dc9292311c44975fe714642cc39
+      internalID: 328789399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Fem Spelling(batu)_19
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 1180
+        width: 1150
+        height: 1180
+      alignment: 9
+      pivot: {x: 0.5645076, y: 0.3794132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3a372bc8735914bbce49dc2d9ccb72
+      internalID: -244082041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sheet Fem Spelling(batu)_0: -595657570
+      Sheet Fem Spelling(batu)_1: -1738584631
+      Sheet Fem Spelling(batu)_10: 1106814683
+      Sheet Fem Spelling(batu)_11: 2046810484
+      Sheet Fem Spelling(batu)_12: 594754414
+      Sheet Fem Spelling(batu)_13: -1724972874
+      Sheet Fem Spelling(batu)_14: -954415381
+      Sheet Fem Spelling(batu)_15: 1546978953
+      Sheet Fem Spelling(batu)_16: 1369018261
+      Sheet Fem Spelling(batu)_17: 328789399
+      Sheet Fem Spelling(batu)_18: -177182731
+      Sheet Fem Spelling(batu)_19: -244082041
+      Sheet Fem Spelling(batu)_2: -10555644
+      Sheet Fem Spelling(batu)_20: -1557405928
+      Sheet Fem Spelling(batu)_21: 1377474779
+      Sheet Fem Spelling(batu)_22: 1689260724
+      Sheet Fem Spelling(batu)_23: 1181864527
+      Sheet Fem Spelling(batu)_24: 1862929111
+      Sheet Fem Spelling(batu)_3: 19182356
+      Sheet Fem Spelling(batu)_4: 1309438617
+      Sheet Fem Spelling(batu)_5: -444668714
+      Sheet Fem Spelling(batu)_6: -1810626151
+      Sheet Fem Spelling(batu)_7: 1719591215
+      Sheet Fem Spelling(batu)_8: 1626865353
+      Sheet Fem Spelling(batu)_9: 1176958667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

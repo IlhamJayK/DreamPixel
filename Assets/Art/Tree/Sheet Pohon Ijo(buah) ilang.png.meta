@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: 0fe94e96e02afdf46a25ad0bdca4325b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5399
+        width: 1355
+        height: 1691
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a77341ef9f36a645abc3bf967f5cf3d
+      internalID: 113269455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_1
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 5399
+        width: 1355
+        height: 1691
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfb417a255634e42be1a85b2056a813
+      internalID: -2020909363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_2
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 5399
+        width: 1355
+        height: 1691
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c27b351768ea94cb06f2a027c16468
+      internalID: -569789687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_3
+      rect:
+        serializedVersion: 2
+        x: 5078
+        y: 5399
+        width: 1355
+        height: 1691
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96503dada17ff04f8279a785001c9d1
+      internalID: 2144398943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_4
+      rect:
+        serializedVersion: 2
+        x: 6710
+        y: 5399
+        width: 1356
+        height: 1691
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855548bccf109b2498509a520d865a4d
+      internalID: -977452215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 3614
+        width: 1355
+        height: 1691
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff7bc39b92eda04290f89f8de6aff8f
+      internalID: -1429280184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_6
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 3614
+        width: 1355
+        height: 1691
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf3ee413f300db498f1e5cbba9e1e88
+      internalID: 376423242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_7
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 3614
+        width: 1355
+        height: 1691
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45390d84a4aee68438fce66168750fa5
+      internalID: 1834413751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_8
+      rect:
+        serializedVersion: 2
+        x: 5078
+        y: 3614
+        width: 1355
+        height: 1691
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493c4b8924acd7d43886730e558e241c
+      internalID: -2026813444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_9
+      rect:
+        serializedVersion: 2
+        x: 6710
+        y: 3614
+        width: 1356
+        height: 1691
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c50462febb40db4e972702aea22e6cf
+      internalID: -81588564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2126
+        width: 1355
+        height: 1388
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d03bd1394cb2147b72c1d3c98b53d1
+      internalID: 1958902344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_15
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 2094
+        width: 1355
+        height: 1388
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63791862cc19b004593f1a19276929af
+      internalID: -630446815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_16
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 2094
+        width: 1355
+        height: 1388
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08cef4aaac1da24ca48176f5f7dd2f4
+      internalID: 1446249633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_17
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 2070
+        width: 1354
+        height: 1396
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d175e32b5633104eb743ca83d149914
+      internalID: -808711308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_18
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 2070
+        width: 1355
+        height: 1396
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9400788e59ea6347ae052ed49db4528
+      internalID: 910897771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_19
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2966
+        width: 76
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047622729954c5a4897f61ad50dcc7ef
+      internalID: 1498491388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_27
+      rect:
+        serializedVersion: 2
+        x: 6287
+        y: 2919
+        width: 74
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47a2097bcfac364ab82685a11d3c20c
+      internalID: 285429078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_29
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 2871
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d56b8aaa29038441a1109788d8061c5
+      internalID: -1104698822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_30
+      rect:
+        serializedVersion: 2
+        x: 4735
+        y: 2871
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1872304f2c638d449a51e966f08c94eb
+      internalID: -1124480339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_31
+      rect:
+        serializedVersion: 2
+        x: 6327
+        y: 2855
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2cb6989a8c3cc4db87247ceb717fa3
+      internalID: 1316608706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_32
+      rect:
+        serializedVersion: 2
+        x: 7959
+        y: 2855
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b5d111a48b8b7449973fc610587061
+      internalID: -706669807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_33
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2102
+        width: 42
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8bec7251c6a8445bbf4d6fc2c82ea1
+      internalID: -2112755189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_39
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2070
+        width: 42
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50465af2a5d9d634e960c47cddc32aa2
+      internalID: 1227472784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_40
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 2070
+        width: 42
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfab9764126624438815242d65fc204
+      internalID: 1195520759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_41
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 2054
+        width: 18
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a34accf1959594e910fe6a53ed23da
+      internalID: -145581785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_42
+      rect:
+        serializedVersion: 2
+        x: 5479
+        y: 2054
+        width: 35
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d83d3edea5cca04b87c660853c4d060
+      internalID: 1482767484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_43
+      rect:
+        serializedVersion: 2
+        x: 7110
+        y: 2054
+        width: 36
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46941db0aed03524f9eae3b638973bcd
+      internalID: 1289932326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_44
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 2030
+        width: 60
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b4192c5844aa4e869831623524473
+      internalID: -1956848039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1926
+        width: 10
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929b2e1ec48d1d544815e8e2175421e4
+      internalID: -2129711108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_46
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1942
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f94c3cc05b8a4478c8142791acf8f9
+      internalID: 963422563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_47
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1926
+        width: 10
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e534f3a27fa74f4187bef1091ddcf86
+      internalID: 219865424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_48
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1942
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842beb810c192cb4a8dc20b812225c81
+      internalID: 1985782523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_49
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 1926
+        width: 12
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b15fdbf6fa9e0c428897889f4ce10c0
+      internalID: -1945270170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_50
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 1942
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e6ac998ce16046aeaa79d017acfad
+      internalID: -1111249046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_51
+      rect:
+        serializedVersion: 2
+        x: 5566
+        y: 1926
+        width: 12
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7daf5f57fc783408f1572abc377760
+      internalID: 836140074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_52
+      rect:
+        serializedVersion: 2
+        x: 5590
+        y: 1942
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bfabdca04b60e48bba17206d8a25ae
+      internalID: 348393928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_53
+      rect:
+        serializedVersion: 2
+        x: 7198
+        y: 1926
+        width: 12
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088cee84543b07347bba0b108b7579e2
+      internalID: -479987962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_54
+      rect:
+        serializedVersion: 2
+        x: 7222
+        y: 1942
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9757319a16c1418506c11778ef932
+      internalID: 1651143238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 287
+        width: 1355
+        height: 1394
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22beb8990022e174e93b06c33e85eda0
+      internalID: -2128205025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_56
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1191
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f925297cc962d034d90e979aa539acba
+      internalID: 1805781532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_57
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1134
+        width: 75
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc2c39f1da82745a643576c5e020de
+      internalID: 1271938788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_58
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1070
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff942a201d498c4469dc9861d431fd66
+      internalID: -484358159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_59
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 271
+        width: 36
+        height: 18
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2a3d2208226294b9382f3d9b609834
+      internalID: 741853890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_61
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 143
+        width: 10
+        height: 18
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07c5ba7cbf972143b409e1b0716fc1c
+      internalID: 51565386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_62
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 159
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31961ea708d670d42a318451e8a6da8b
+      internalID: -467142245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_10
+      rect:
+        serializedVersion: 2
+        x: 8142
+        y: 4815
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74459fe18888d6f42bc2aa13e1906c26
+      internalID: 979032278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_11
+      rect:
+        serializedVersion: 2
+        x: 8062
+        y: 4759
+        width: 76
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddd3532dca8f0a4b9bbe808e8deb0ec
+      internalID: 387939361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_12
+      rect:
+        serializedVersion: 2
+        x: 8102
+        y: 4694
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10fe5289371c9644b4bbdcd3ce73ec2
+      internalID: 1745636047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_14
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 3022
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb2efe2c13fd194b9e90e4d1b804e93
+      internalID: -2019971243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_20
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 2990
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e69a597cc8a85a499e7e7c99abe706c
+      internalID: -647855889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_21
+      rect:
+        serializedVersion: 2
+        x: 4775
+        y: 2990
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adb8241cc25ec64fb333ed21f720149
+      internalID: 906500729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_22
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 2934
+        width: 76
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5712e6607477849a2406bc397191a3
+      internalID: -810625823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_23
+      rect:
+        serializedVersion: 2
+        x: 4694
+        y: 2934
+        width: 75
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3d4fe8a6a914144be2d00abcba6533
+      internalID: -1496184804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_24
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 2974
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6248738e5fa9734faf64bde7def8c28
+      internalID: 2018405457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_25
+      rect:
+        serializedVersion: 2
+        x: 7999
+        y: 2974
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a6a2237786089418b126d444721f11
+      internalID: 2122164586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_26
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2903
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e12d707c4eb62c48bb7ea7399b69e2d
+      internalID: 261061234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_28
+      rect:
+        serializedVersion: 2
+        x: 7919
+        y: 2919
+        width: 74
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d19687ce467704c87083f512ba87da
+      internalID: -840400434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_34
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1831
+        width: 466
+        height: 434
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00bd0324b44b3e4cbe5d1ce9b108cb8
+      internalID: 63534623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_35
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1831
+        width: 466
+        height: 434
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4f706bf476320498f792def4a6b157
+      internalID: 899006111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_36
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 1831
+        width: 467
+        height: 434
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c12f25fb5c830458f15a2aebdf5964
+      internalID: 1620156958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_37
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 1831
+        width: 468
+        height: 434
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcb3a82cbb241d44b47c6ac871bd8c1
+      internalID: -1596672042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_38
+      rect:
+        serializedVersion: 2
+        x: 7230
+        y: 1831
+        width: 468
+        height: 434
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a15c425c0061d4cb6bfb0414d7726b
+      internalID: -56861468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo(buah) ilang_60
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 46
+        width: 466
+        height: 436
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccb5f03cc91e6543ab745e48089dd3d
+      internalID: 1607258112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sheet Pohon Ijo(buah) ilang_0: 113269455
+      Sheet Pohon Ijo(buah) ilang_1: -2020909363
+      Sheet Pohon Ijo(buah) ilang_10: 979032278
+      Sheet Pohon Ijo(buah) ilang_11: 387939361
+      Sheet Pohon Ijo(buah) ilang_12: 1745636047
+      Sheet Pohon Ijo(buah) ilang_13: 1958902344
+      Sheet Pohon Ijo(buah) ilang_14: -2019971243
+      Sheet Pohon Ijo(buah) ilang_15: -630446815
+      Sheet Pohon Ijo(buah) ilang_16: 1446249633
+      Sheet Pohon Ijo(buah) ilang_17: -808711308
+      Sheet Pohon Ijo(buah) ilang_18: 910897771
+      Sheet Pohon Ijo(buah) ilang_19: 1498491388
+      Sheet Pohon Ijo(buah) ilang_2: -569789687
+      Sheet Pohon Ijo(buah) ilang_20: -647855889
+      Sheet Pohon Ijo(buah) ilang_21: 906500729
+      Sheet Pohon Ijo(buah) ilang_22: -810625823
+      Sheet Pohon Ijo(buah) ilang_23: -1496184804
+      Sheet Pohon Ijo(buah) ilang_24: 2018405457
+      Sheet Pohon Ijo(buah) ilang_25: 2122164586
+      Sheet Pohon Ijo(buah) ilang_26: 261061234
+      Sheet Pohon Ijo(buah) ilang_27: 285429078
+      Sheet Pohon Ijo(buah) ilang_28: -840400434
+      Sheet Pohon Ijo(buah) ilang_29: -1104698822
+      Sheet Pohon Ijo(buah) ilang_3: 2144398943
+      Sheet Pohon Ijo(buah) ilang_30: -1124480339
+      Sheet Pohon Ijo(buah) ilang_31: 1316608706
+      Sheet Pohon Ijo(buah) ilang_32: -706669807
+      Sheet Pohon Ijo(buah) ilang_33: -2112755189
+      Sheet Pohon Ijo(buah) ilang_34: 63534623
+      Sheet Pohon Ijo(buah) ilang_35: 899006111
+      Sheet Pohon Ijo(buah) ilang_36: 1620156958
+      Sheet Pohon Ijo(buah) ilang_37: -1596672042
+      Sheet Pohon Ijo(buah) ilang_38: -56861468
+      Sheet Pohon Ijo(buah) ilang_39: 1227472784
+      Sheet Pohon Ijo(buah) ilang_4: -977452215
+      Sheet Pohon Ijo(buah) ilang_40: 1195520759
+      Sheet Pohon Ijo(buah) ilang_41: -145581785
+      Sheet Pohon Ijo(buah) ilang_42: 1482767484
+      Sheet Pohon Ijo(buah) ilang_43: 1289932326
+      Sheet Pohon Ijo(buah) ilang_44: -1956848039
+      Sheet Pohon Ijo(buah) ilang_45: -2129711108
+      Sheet Pohon Ijo(buah) ilang_46: 963422563
+      Sheet Pohon Ijo(buah) ilang_47: 219865424
+      Sheet Pohon Ijo(buah) ilang_48: 1985782523
+      Sheet Pohon Ijo(buah) ilang_49: -1945270170
+      Sheet Pohon Ijo(buah) ilang_5: -1429280184
+      Sheet Pohon Ijo(buah) ilang_50: -1111249046
+      Sheet Pohon Ijo(buah) ilang_51: 836140074
+      Sheet Pohon Ijo(buah) ilang_52: 348393928
+      Sheet Pohon Ijo(buah) ilang_53: -479987962
+      Sheet Pohon Ijo(buah) ilang_54: 1651143238
+      Sheet Pohon Ijo(buah) ilang_55: -2128205025
+      Sheet Pohon Ijo(buah) ilang_56: 1805781532
+      Sheet Pohon Ijo(buah) ilang_57: 1271938788
+      Sheet Pohon Ijo(buah) ilang_58: -484358159
+      Sheet Pohon Ijo(buah) ilang_59: 741853890
+      Sheet Pohon Ijo(buah) ilang_6: 376423242
+      Sheet Pohon Ijo(buah) ilang_60: 1607258112
+      Sheet Pohon Ijo(buah) ilang_61: 51565386
+      Sheet Pohon Ijo(buah) ilang_62: -467142245
+      Sheet Pohon Ijo(buah) ilang_7: 1834413751
+      Sheet Pohon Ijo(buah) ilang_8: -2026813444
+      Sheet Pohon Ijo(buah) ilang_9: -81588564
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 084c3fb8583c7604988019468d8411f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 210
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1410
+        width: 500
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebda05ea69d9b944ab0f7e94c09acaf
+      internalID: 898210743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1410
+        width: 460
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effb8efcae0d98943bcfaf0d4b349684
+      internalID: -136621737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1410
+        width: 460
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4287824df6ccb8a4c8f86b5af5390db9
+      internalID: -875504120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_3
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1410
+        width: 460
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e44e33dbf99d034d99375632260cb64
+      internalID: -1532736258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 950
+        width: 460
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f164a3eacbb93de4696a2ad5e1ddba51
+      internalID: 1253147887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 950
+        width: 460
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f622b013f7132e544905c0035c387ba4
+      internalID: 684943389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 950
+        width: 460
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490da8bed0b4c3c4fb2ea8902710b083
+      internalID: 283275312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_7
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 950
+        width: 460
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdea815d809c92248acfe5aec15f5cbe
+      internalID: 769645648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 830
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f469aa3fa026a49a4c8ef1fcd89a2e
+      internalID: -1747834100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_9
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 820
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d41b068d0b0c44829bb097d27e9f9
+      internalID: 236064718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_10
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 830
+        width: 10
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd546783a5fd275469682dcf52bcbd31
+      internalID: -855367315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_11
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 840
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86454e2cde58de64786c0ebe8f449c80
+      internalID: -201185322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_12
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 810
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0842408f938aca546ba57cb2aa9f1443
+      internalID: -2022886627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_13
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 830
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c04854875f28ae44a076b994b4c7a3a
+      internalID: -985403770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_14
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 820
+        width: 30
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f1acb7d59d4245853d196d02dcc51
+      internalID: 872472954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 490
+        width: 460
+        height: 340
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82542ea9c545a89429a73038268c93a8
+      internalID: 1768788668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_16
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 480
+        width: 480
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283cd6b7894155e49a0ea84cd36a11ff
+      internalID: 1720305322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_17
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 820
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a434e793ea66049a5e51987ca2d3bf
+      internalID: -1704574143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 810
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9742de7c7d957f64eb9687ac0e260cd8
+      internalID: 2096139268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_19
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 760
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6796b7ad760a86646928e7f1b0dc4efd
+      internalID: 1556742204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_20
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 800
+        width: 20
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434fa41d45df77f41a916a8b7f930280
+      internalID: -1293096662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 650
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b47068c4d348b4490c0835c9c2136c
+      internalID: -166420924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 640
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd793016ec6af78409244a1c5d40441d
+      internalID: -1769475584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_23
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 660
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a97249cd2741aa44a3079e2bca104bb
+      internalID: 1679050631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_24
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 490
+        width: 500
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239da51ea3b3de04aa75afe5d173a9fa
+      internalID: 1638081167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_25
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 490
+        width: 500
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467655062abf0946974c4ba5b695ce5
+      internalID: 1957511414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_26
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 640
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca899a251852f4290e557b855db40e
+      internalID: 1984178890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_27
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 610
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4c9ad87ae158a4ba1cf49ac1d5a3c8
+      internalID: -702961599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_28
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 600
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6961da95573414c9a5ca05cf8a5ede
+      internalID: 1376006521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_29
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 610
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d930ca29de0558d4e82a0aab5de9cf04
+      internalID: -948384169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_30
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 600
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba77b138e07658499207d98d9c3c84a
+      internalID: 1683434194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_31
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 590
+        width: 30
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6383a781f894a4fa97b559f08aa0a4
+      internalID: 859849577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_32
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 590
+        width: 30
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e98cbd91ce3c8b4c85dabbf68d2decc
+      internalID: -193482592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 30
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f41c5b041f659045b4631897df27ecb
+      internalID: 247791443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet batu 1 ilang_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 30
+        width: 500
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5204957, y: 0.1761349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911122c5cf777e04cb67652e53492be4
+      internalID: -781777232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sheet batu 1 ilang_0: 898210743
+      Sheet batu 1 ilang_1: -136621737
+      Sheet batu 1 ilang_10: -855367315
+      Sheet batu 1 ilang_11: -201185322
+      Sheet batu 1 ilang_12: -2022886627
+      Sheet batu 1 ilang_13: -985403770
+      Sheet batu 1 ilang_14: 872472954
+      Sheet batu 1 ilang_15: 1768788668
+      Sheet batu 1 ilang_16: 1720305322
+      Sheet batu 1 ilang_17: -1704574143
+      Sheet batu 1 ilang_18: 2096139268
+      Sheet batu 1 ilang_19: 1556742204
+      Sheet batu 1 ilang_2: -875504120
+      Sheet batu 1 ilang_20: -1293096662
+      Sheet batu 1 ilang_21: -166420924
+      Sheet batu 1 ilang_22: -1769475584
+      Sheet batu 1 ilang_23: 1679050631
+      Sheet batu 1 ilang_24: 1638081167
+      Sheet batu 1 ilang_25: 1957511414
+      Sheet batu 1 ilang_26: 1984178890
+      Sheet batu 1 ilang_27: -702961599
+      Sheet batu 1 ilang_28: 1376006521
+      Sheet batu 1 ilang_29: -948384169
+      Sheet batu 1 ilang_3: -1532736258
+      Sheet batu 1 ilang_30: 1683434194
+      Sheet batu 1 ilang_31: 859849577
+      Sheet batu 1 ilang_32: -193482592
+      Sheet batu 1 ilang_33: 247791443
+      Sheet batu 1 ilang_34: -781777232
+      Sheet batu 1 ilang_4: 1253147887
+      Sheet batu 1 ilang_5: 684943389
+      Sheet batu 1 ilang_6: 283275312
+      Sheet batu 1 ilang_7: 769645648
+      Sheet batu 1 ilang_8: -1747834100
+      Sheet batu 1 ilang_9: 236064718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

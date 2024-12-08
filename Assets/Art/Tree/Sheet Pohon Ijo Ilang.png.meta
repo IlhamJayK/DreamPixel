@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: f7502cf7e3b51264e8ff961781d1d4c2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo Ilang_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 328
+        width: 1694
+        height: 2116
+      alignment: 9
+      pivot: {x: 0.552374, y: 0.04173446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2106e5eb983f99f4ebd8f76e8ae4179d
+      internalID: -1114031411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo Ilang_5
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 328
+        width: 1694
+        height: 2116
+      alignment: 9
+      pivot: {x: 0.5528952, y: 0.03839668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc7d119a188924ca948e8b6ae6cc02
+      internalID: 1976972789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo Ilang_7
+      rect:
+        serializedVersion: 2
+        x: 7144
+        y: 328
+        width: 1694
+        height: 2116
+      alignment: 9
+      pivot: {x: 0.58864844, y: 0.03680466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9fd9be6d2add3459e53df999a47066
+      internalID: -1991032394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet Pohon Ijo Ilang_8
+      rect:
+        serializedVersion: 2
+        x: 10556
+        y: 328
+        width: 1694
+        height: 2116
+      alignment: 9
+      pivot: {x: 0.5916793, y: 0.037221927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63758f40d5bfa4f4eb5511f30d808f7e
+      internalID: 1660570165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sheet Pohon Ijo Ilang_0: 1886921675
+      Sheet Pohon Ijo Ilang_1: -1840838501
+      Sheet Pohon Ijo Ilang_10: 1811715945
+      Sheet Pohon Ijo Ilang_11: -1021619365
+      Sheet Pohon Ijo Ilang_12: 289790255
+      Sheet Pohon Ijo Ilang_13: 65836433
+      Sheet Pohon Ijo Ilang_14: 832062782
+      Sheet Pohon Ijo Ilang_15: 1390206043
+      Sheet Pohon Ijo Ilang_16: 896418026
+      Sheet Pohon Ijo Ilang_17: 180115063
+      Sheet Pohon Ijo Ilang_18: -535107539
+      Sheet Pohon Ijo Ilang_19: 591685945
+      Sheet Pohon Ijo Ilang_2: 1895609969
+      Sheet Pohon Ijo Ilang_20: -1786093270
+      Sheet Pohon Ijo Ilang_21: 1482110753
+      Sheet Pohon Ijo Ilang_22: -1674088364
+      Sheet Pohon Ijo Ilang_23: -1815641974
+      Sheet Pohon Ijo Ilang_24: 765813104
+      Sheet Pohon Ijo Ilang_25: -1359420212
+      Sheet Pohon Ijo Ilang_26: -3318250
+      Sheet Pohon Ijo Ilang_27: 662176099
+      Sheet Pohon Ijo Ilang_28: -2071494414
+      Sheet Pohon Ijo Ilang_29: 377978132
+      Sheet Pohon Ijo Ilang_3: -1114031411
+      Sheet Pohon Ijo Ilang_30: -1243217016
+      Sheet Pohon Ijo Ilang_4: -463053286
+      Sheet Pohon Ijo Ilang_5: 1976972789
+      Sheet Pohon Ijo Ilang_6: 787292424
+      Sheet Pohon Ijo Ilang_7: -1991032394
+      Sheet Pohon Ijo Ilang_8: 1660570165
+      Sheet Pohon Ijo Ilang_9: -1644059908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

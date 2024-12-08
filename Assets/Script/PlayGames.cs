@@ -6,9 +6,24 @@ using UnityEngine.SceneManagement;
 public class PlayGames : MonoBehaviour
 {
     
+    public Animator transition;
+    
     public void PlayGame(){
 
-        SceneManager.LoadScene(0);
+        StartCoroutine(LevelLoader());
+
+    }
+
+    IEnumerator LevelLoader() {
+        transition.SetTrigger("Start");
+
+        yield return new WaitForSeconds(1);
+
+        SceneManager.LoadScene("Intro");
+    }
+
+    public void CharacterSelect(){
+        SceneManager.LoadScene("CharacterSelection");
 
     }
 
@@ -19,7 +34,7 @@ public class PlayGames : MonoBehaviour
     }
     
     public void ExitMenu (){
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("MainMenu");
         Time.timeScale = 1;
     }
 

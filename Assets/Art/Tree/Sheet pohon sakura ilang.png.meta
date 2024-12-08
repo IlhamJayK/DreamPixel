@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: b9d0c703af476d6428bd1f4627b05118
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5616
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c77fe1886483ef449f2b5603b1c3bda
+      internalID: -1477880917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5616
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c156867a224078349805383ed1793121
+      internalID: -2054593554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_2
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5616
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e5d527f4f18794fac9852619d5b144
+      internalID: -1270291489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5616
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef539b7fcf42f1a4ab0b0a6a29c4a957
+      internalID: 924590426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_4
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 5616
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2725df7db7b574a92ffc375bd96dec
+      internalID: 1887851228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3744
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeae97a2effae44a880263b2241b428
+      internalID: 986333472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_6
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3744
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc66ac6befb7ed47ae8be2daefc3a27
+      internalID: -1669715923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_7
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3744
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a4db44d62a3764fb6a0ade41e851d4
+      internalID: -1880482250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_8
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3744
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1decad066a61f61488c5f179146a8ad7
+      internalID: -1250991158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_9
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3744
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f226eeca77062254791b0bb817f4cc2d
+      internalID: 771243014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1872
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6c1cdd2f24acc4e93cf06201383803
+      internalID: -732811592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_11
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1872
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1aa91b4b752d346a953dfcba6f7e2f
+      internalID: 1143657501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1872
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b0e13322805f47a5ae7b7ecf6e966
+      internalID: -454310061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_13
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1872
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b23a79a3444f64cb2d21b3987d05be
+      internalID: -760021807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_14
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1872
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fecaf4fc316a004f8a33350947e276a
+      internalID: -1223061913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon sakura ilang_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 1872
+      alignment: 9
+      pivot: {x: 0.4713415, y: 0.09957234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e4aacf62b8cfa44ad2cc3298ee26c8
+      internalID: -1704960522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sheet pohon sakura ilang_0: -1477880917
+      Sheet pohon sakura ilang_1: -2054593554
+      Sheet pohon sakura ilang_10: -732811592
+      Sheet pohon sakura ilang_11: 1143657501
+      Sheet pohon sakura ilang_12: -454310061
+      Sheet pohon sakura ilang_13: -760021807
+      Sheet pohon sakura ilang_14: -1223061913
+      Sheet pohon sakura ilang_15: -1704960522
+      Sheet pohon sakura ilang_2: -1270291489
+      Sheet pohon sakura ilang_3: 924590426
+      Sheet pohon sakura ilang_4: 1887851228
+      Sheet pohon sakura ilang_5: 986333472
+      Sheet pohon sakura ilang_6: -1669715923
+      Sheet pohon sakura ilang_7: -1880482250
+      Sheet pohon sakura ilang_8: -1250991158
+      Sheet pohon sakura ilang_9: 771243014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -20,14 +20,14 @@ public class ParallaxEffect : MonoBehaviour
 
     float parallaxFactor => Mathf.Abs(zDistanceFromTarget) / clippingPlane;
 
-    // Start is called before the first frame update
+
     void Start()
     {
         startingPosition = transform.position;
         startingZ = transform.position.z;
     }
 
-    // Update is called once per frame
+
     void Update()
     {
         Vector2 newPosition = startingPosition + camMoveSinceStart * parallaxFactor;

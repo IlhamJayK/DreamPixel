@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: 571b6f48aceb30441a43c2fe1f7adcc9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 225
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5438
+        width: 1355
+        height: 1692
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10753ee5b76ac064c865309cb5b1978b
+      internalID: -1891150063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_1
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 5438
+        width: 1356
+        height: 1692
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dafbe5b5215e34e830150e2aff5bba
+      internalID: -2128047683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_2
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 5438
+        width: 1356
+        height: 1692
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964c9316bc19a154a88e425ab75ceba3
+      internalID: 595606247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_3
+      rect:
+        serializedVersion: 2
+        x: 5287
+        y: 5438
+        width: 1355
+        height: 1692
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32bf02873dade74fa26ec6892df0e38
+      internalID: -1605826830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_4
+      rect:
+        serializedVersion: 2
+        x: 6999
+        y: 5438
+        width: 1354
+        height: 1692
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c8bf12f813a2d44b8497051353bc50
+      internalID: 2047014607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3647
+        width: 1355
+        height: 1690
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc7be749e8ca804e86375c240fd0187
+      internalID: 1744667110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_6
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 3647
+        width: 1356
+        height: 1690
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20d3a72ff6b80b46a2006b2b69cb512
+      internalID: 1233572947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_7
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 3647
+        width: 1356
+        height: 1690
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bfcc740b0113841b7d86ad954b272f
+      internalID: 881788214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_8
+      rect:
+        serializedVersion: 2
+        x: 5287
+        y: 3647
+        width: 1355
+        height: 1690
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397b63597fe3f614abd6ef605650da58
+      internalID: -1671906281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_9
+      rect:
+        serializedVersion: 2
+        x: 6999
+        y: 3647
+        width: 1354
+        height: 1690
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74951de43b23684d83b3ea8623cff00
+      internalID: -404264483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_10
+      rect:
+        serializedVersion: 2
+        x: 8430
+        y: 4846
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc6f9512e317a40939ac41cb35bd3d
+      internalID: -542051953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_11
+      rect:
+        serializedVersion: 2
+        x: 8351
+        y: 4790
+        width: 75
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd2ff1d867b33f49a040d02c6c75f1a
+      internalID: 1500889912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_12
+      rect:
+        serializedVersion: 2
+        x: 8391
+        y: 4727
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51f78ce5b9540d48b82434e0f9282ca
+      internalID: -673659228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2150
+        width: 1357
+        height: 1388
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085aed03f5d4c174a806286e22a61219
+      internalID: 100188967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_14
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 3047
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e70e1e93006aca439419a60ba5c5a73
+      internalID: -131454201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_15
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2119
+        width: 1356
+        height: 1388
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf70f443a3a6b8429703b2f3be79274
+      internalID: -1121691461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_16
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 2119
+        width: 1354
+        height: 1388
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7bbe4a130cc734b84fb7f8aa211283
+      internalID: -109128547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_17
+      rect:
+        serializedVersion: 2
+        x: 5143
+        y: 2094
+        width: 1354
+        height: 1396
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31ccf5cd3092e14bb46acea00dd2238
+      internalID: 357946793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_18
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 2094
+        width: 1354
+        height: 1396
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88710561700294f4c8b8c1cd3f78c469
+      internalID: 744714000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_19
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 2991
+        width: 75
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85cab423917d0a4faec0c06833573a1
+      internalID: -349679036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_20
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 3013
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69fee5f2f6fe9a40a48eb7202d1ea7b
+      internalID: -1153640956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_21
+      rect:
+        serializedVersion: 2
+        x: 4903
+        y: 3013
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b83ed70b058484392bce88e6c58afc
+      internalID: -1147462083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_22
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 2959
+        width: 75
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96db74cb4e0511468e2dd0650b05efc
+      internalID: 1363919769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_23
+      rect:
+        serializedVersion: 2
+        x: 4823
+        y: 2959
+        width: 76
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1664ca64f02987448ade0e67ee44c682
+      internalID: 2083394500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_24
+      rect:
+        serializedVersion: 2
+        x: 6575
+        y: 2999
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661ea173c8032d41abbc931500bd902
+      internalID: 1852896781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_25
+      rect:
+        serializedVersion: 2
+        x: 8286
+        y: 2999
+        width: 11
+        height: 10
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2453e8df64242d48a8e7d42d53e4547
+      internalID: 1245386574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_26
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2926
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29d888dd5e05634ca82757e1a286bb5
+      internalID: -1576766941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_27
+      rect:
+        serializedVersion: 2
+        x: 6495
+        y: 2942
+        width: 75
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fddb27ca595f24b80d2067649bb30d
+      internalID: 1131424988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_28
+      rect:
+        serializedVersion: 2
+        x: 8207
+        y: 2942
+        width: 75
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ee13c315a4c3b4c9aea4c5c9f54cfc
+      internalID: -2143305511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_29
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 2894
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b51971e90d4774dac7e6b78b49b9e5
+      internalID: 367207764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_30
+      rect:
+        serializedVersion: 2
+        x: 4863
+        y: 2894
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f32be6191b0774796a25c0ce9898fe
+      internalID: -794058575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_31
+      rect:
+        serializedVersion: 2
+        x: 6535
+        y: 2878
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4f24dab2bb24141bd2e016451e7f9a
+      internalID: -1772521418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_32
+      rect:
+        serializedVersion: 2
+        x: 8247
+        y: 2878
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa1417ef3c2434c90bbed05a1a9fa1
+      internalID: -1867531694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_33
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2125
+        width: 44
+        height: 21
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6fbc660d0f77d4cab92d27a341a53b
+      internalID: -833466209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_39
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2094
+        width: 44
+        height: 19
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638a5881f7102f74ea063d923063f62f
+      internalID: -803885308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_40
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 2094
+        width: 44
+        height: 19
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6371698637179e46a3e1b6c1ab26ec3
+      internalID: 383707184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_41
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 2079
+        width: 21
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd70ba429b663a4ebfa5d2968641dc6
+      internalID: -391013050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_42
+      rect:
+        serializedVersion: 2
+        x: 5686
+        y: 2079
+        width: 36
+        height: 19
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16f4fe4fbc26044c85f9ad40ea9d135
+      internalID: 114469045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_43
+      rect:
+        serializedVersion: 2
+        x: 7398
+        y: 2079
+        width: 36
+        height: 19
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65918482d62547e4ba9eaacbccefb074
+      internalID: 485115712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_44
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 2054
+        width: 61
+        height: 27
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fee123bb2b10842b8a1f85429a11f7
+      internalID: -965055730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_45
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1950
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658c8a92139380c418491db994ff46dd
+      internalID: -1416318861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_46
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1967
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4f5cbe80eda63438bc8ce7219f8923
+      internalID: 907126660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_47
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1950
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61373c5a6fe3184cbf1c6e844eb1a7d
+      internalID: 1465581440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_48
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1967
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924314f05c2ce1941be15522544d16ac
+      internalID: -541191960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_49
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 1950
+        width: 10
+        height: 21
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e1c812cc4fa6e419aa6c202fd10a2a
+      internalID: 132054423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_50
+      rect:
+        serializedVersion: 2
+        x: 4086
+        y: 1967
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4912635fb27645647a5dc6272a376487
+      internalID: 2120971094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_51
+      rect:
+        serializedVersion: 2
+        x: 5774
+        y: 1950
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e847ee4d74c8e84e8f2f14ec2dc3bf7
+      internalID: 1804944543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_52
+      rect:
+        serializedVersion: 2
+        x: 5799
+        y: 1967
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a09f6acb4a4e4aa8a53c6f8129294
+      internalID: -146515209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_53
+      rect:
+        serializedVersion: 2
+        x: 7486
+        y: 1950
+        width: 12
+        height: 21
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b2f5f1fb3c6944fb9561746330575c
+      internalID: -1739667856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_54
+      rect:
+        serializedVersion: 2
+        x: 7511
+        y: 1967
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd6c042758a2a4f9726b567efbe3e6
+      internalID: -1488143881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 303
+        width: 1357
+        height: 1394
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2bf6c6dd18e1946acba5a0fc598dac
+      internalID: -511181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_56
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1206
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f733b23da154e40a46b052395ebb8c
+      internalID: -361381935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_57
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1149
+        width: 76
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e158881f8e61648960906baa62889d
+      internalID: 1149786979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_58
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1087
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25eac67b3baf3e4e9c3e8aee155452b
+      internalID: -1265263359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_59
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 286
+        width: 35
+        height: 19
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bf4ba47c867354fb084d75f3871da6
+      internalID: 353284673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_61
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 159
+        width: 13
+        height: 19
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b73ea67c7556b6409cf79df6f3d3cbe
+      internalID: -194884256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_62
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 173
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbcac0692679884f8000b77878a4dbd
+      internalID: 596544675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_34
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1854
+        width: 466
+        height: 436
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b80f805fc1dcc4d9bdbae90e1b1f71
+      internalID: 2055690271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_35
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 1854
+        width: 469
+        height: 436
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b424a7fe6d38343800c0485dc3d3d0
+      internalID: 1809502436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_36
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 1854
+        width: 468
+        height: 436
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63a03590347b3c4db30ee746ff207e4
+      internalID: -1001699762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_37
+      rect:
+        serializedVersion: 2
+        x: 5806
+        y: 1854
+        width: 468
+        height: 436
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06152d035adc97498e6b3c2cdc7cf2b
+      internalID: -882489856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_38
+      rect:
+        serializedVersion: 2
+        x: 7519
+        y: 1854
+        width: 466
+        height: 436
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7b78d52fb31384c955570c703197af
+      internalID: 510223057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet pohon ijo ilang3_60
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 63
+        width: 466
+        height: 434
+      alignment: 9
+      pivot: {x: 0.55, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb98f8139c8bc947b661fada3d70b2c
+      internalID: -238553078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sheet pohon ijo ilang3_0: -1891150063
+      Sheet pohon ijo ilang3_1: -2128047683
+      Sheet pohon ijo ilang3_10: -542051953
+      Sheet pohon ijo ilang3_11: 1500889912
+      Sheet pohon ijo ilang3_12: -673659228
+      Sheet pohon ijo ilang3_13: 100188967
+      Sheet pohon ijo ilang3_14: -131454201
+      Sheet pohon ijo ilang3_15: -1121691461
+      Sheet pohon ijo ilang3_16: -109128547
+      Sheet pohon ijo ilang3_17: 357946793
+      Sheet pohon ijo ilang3_18: 744714000
+      Sheet pohon ijo ilang3_19: -349679036
+      Sheet pohon ijo ilang3_2: 595606247
+      Sheet pohon ijo ilang3_20: -1153640956
+      Sheet pohon ijo ilang3_21: -1147462083
+      Sheet pohon ijo ilang3_22: 1363919769
+      Sheet pohon ijo ilang3_23: 2083394500
+      Sheet pohon ijo ilang3_24: 1852896781
+      Sheet pohon ijo ilang3_25: 1245386574
+      Sheet pohon ijo ilang3_26: -1576766941
+      Sheet pohon ijo ilang3_27: 1131424988
+      Sheet pohon ijo ilang3_28: -2143305511
+      Sheet pohon ijo ilang3_29: 367207764
+      Sheet pohon ijo ilang3_3: -1605826830
+      Sheet pohon ijo ilang3_30: -794058575
+      Sheet pohon ijo ilang3_31: -1772521418
+      Sheet pohon ijo ilang3_32: -1867531694
+      Sheet pohon ijo ilang3_33: -833466209
+      Sheet pohon ijo ilang3_34: 2055690271
+      Sheet pohon ijo ilang3_35: 1809502436
+      Sheet pohon ijo ilang3_36: -1001699762
+      Sheet pohon ijo ilang3_37: -882489856
+      Sheet pohon ijo ilang3_38: 510223057
+      Sheet pohon ijo ilang3_39: -803885308
+      Sheet pohon ijo ilang3_4: 2047014607
+      Sheet pohon ijo ilang3_40: 383707184
+      Sheet pohon ijo ilang3_41: -391013050
+      Sheet pohon ijo ilang3_42: 114469045
+      Sheet pohon ijo ilang3_43: 485115712
+      Sheet pohon ijo ilang3_44: -965055730
+      Sheet pohon ijo ilang3_45: -1416318861
+      Sheet pohon ijo ilang3_46: 907126660
+      Sheet pohon ijo ilang3_47: 1465581440
+      Sheet pohon ijo ilang3_48: -541191960
+      Sheet pohon ijo ilang3_49: 132054423
+      Sheet pohon ijo ilang3_5: 1744667110
+      Sheet pohon ijo ilang3_50: 2120971094
+      Sheet pohon ijo ilang3_51: 1804944543
+      Sheet pohon ijo ilang3_52: -146515209
+      Sheet pohon ijo ilang3_53: -1739667856
+      Sheet pohon ijo ilang3_54: -1488143881
+      Sheet pohon ijo ilang3_55: -511181
+      Sheet pohon ijo ilang3_56: -361381935
+      Sheet pohon ijo ilang3_57: 1149786979
+      Sheet pohon ijo ilang3_58: -1265263359
+      Sheet pohon ijo ilang3_59: 353284673
+      Sheet pohon ijo ilang3_6: 1233572947
+      Sheet pohon ijo ilang3_60: -238553078
+      Sheet pohon ijo ilang3_61: -194884256
+      Sheet pohon ijo ilang3_62: 596544675
+      Sheet pohon ijo ilang3_7: 881788214
+      Sheet pohon ijo ilang3_8: -1671906281
+      Sheet pohon ijo ilang3_9: -404264483
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

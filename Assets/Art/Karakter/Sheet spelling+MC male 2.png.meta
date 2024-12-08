@@ -1,0 +1,1082 @@
+fileFormatVersion: 2
+guid: ea712242961602746aa3e2d07765f950
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6264
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43173f5b4be29aa468a202a679481e10
+      internalID: 1913582281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_1
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 6264
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19956fd019c8694582c58ca0a2f4257
+      internalID: -729214081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_2
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 6264
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652871a4d5a435c43b54d7818449fa26
+      internalID: -153814196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_3
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 6264
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1297f35c7fc58eb4cac9765ff6ac6d48
+      internalID: 1274557129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_4
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 6264
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf5521dd3e62c5438cd24ca101f1cdd
+      internalID: 373706055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_5
+      rect:
+        serializedVersion: 2
+        x: 5275
+        y: 6264
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f718b714356da4fadaea1dc4f48e76
+      internalID: -919955352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_6
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 6264
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49654928bfa64af4295f1d5c332bcf35
+      internalID: -1436884898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5220
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f172920b594521e479a3281246e35a82
+      internalID: -531456927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_9
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 5220
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f4d1b91cff866439316fef0e324538
+      internalID: 910054626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_11
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 5220
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792cc88420e8d864fb14aae372012e51
+      internalID: -2052157179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_12
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 5220
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6d9502c3fb1a8488e8f75c8a69a3c7
+      internalID: 549364165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_15
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 4176
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4840f26ab69ee4591894ec20bb92a2
+      internalID: -1866905412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_17
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 4176
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050debb52acc4634f900797112febc4a
+      internalID: 1568031792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_19
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 4176
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d22165d3e4039d4b8cc42158053aea5
+      internalID: -993331963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_23
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 3132
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04b721faf060814d87aaf32e8fb4ed0
+      internalID: -1300519863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_26
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 3132
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f8f2a119d5ad64598001395ce63372
+      internalID: 1677580022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_29
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 2088
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dfeacdba63b6e40b3c84d5123b4dfa
+      internalID: -550871790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_31
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 2088
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2336b8b3bb61dfc4cbc7f14e53ba3349
+      internalID: -1731935496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_33
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 2088
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2affc599c27b12849a917adb47b4c443
+      internalID: -1250063681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_34
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 2088
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789393194926915439f441e27f9af68e
+      internalID: -151811929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ed2e6cbae99e4c8b6db217bef6754
+      internalID: -335952746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_36
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1044
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a783ae0402450c04eafe395359e8c2b7
+      internalID: -1324070175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_37
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1044
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f22f9a57cdf1498f7d1424e25a118
+      internalID: 1563124321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_39
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 1044
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8341b5e18071b4f839251b572e1899
+      internalID: 558720867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_8
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 5220
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3edd22baddfe24cb255c294be2b996
+      internalID: 811061443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_10
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 5220
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8018b4f5b55dc42aeff4235d6efec4
+      internalID: -1621354376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_13
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 5220
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3bc5999f3df1a4682610ac38d7b6d0
+      internalID: 827476009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4176
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17250454d8eec674bb5cb68eb2480080
+      internalID: -1830861430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_16
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 4176
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ae93c8bd5247441bbfd17eacfb039d
+      internalID: 1175830143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_18
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 4176
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89074b4c64ece6647b3a48f9ff47341b
+      internalID: -1294209287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_20
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 4176
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce3a3fa50b5b6643b9d6a48b173b06f
+      internalID: 460863904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3132
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cb509ad10295243bee462d9fb08477
+      internalID: 1979526495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_22
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 3132
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e2d2b3b0bf48428ddfdc65ce0fea2
+      internalID: 331166624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_24
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 3132
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cb41ae972f994eb5ae222d2b4d580
+      internalID: 1118267608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_25
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 3132
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce9beb9749c2644b5723e1f7a3d9aa
+      internalID: 1715998317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_27
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 3132
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d996b676b2c1e784b8289d3bc237ac50
+      internalID: -1272945978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fe3ea5b2e15574a8e6ebce3dbb29dc
+      internalID: 139718968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_30
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2088
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6d1625b021d3649b9a9f646775a5ba
+      internalID: -479451462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_32
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 2088
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f363995b8a19f76419eaf020252a140e
+      internalID: -2073091314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_38
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 1044
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1710474ae02448940806f5423ea6e69e
+      internalID: -1140532396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_40
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 1044
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8f52f71e079c34daeb6d49b8d3c7b5
+      internalID: 770462538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_41
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 1044
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201c37be5c77ee54a8d5b725372555d8
+      internalID: -134485451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0af24a527852149aa7bb13205208d4
+      internalID: 848972655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheet spelling+MC male 2_43
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 0
+        width: 1053
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.3773946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aace8cb945d2c3499fe26afd025f1b0
+      internalID: -817867937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sheet spelling+MC male 2_0: 1913582281
+      Sheet spelling+MC male 2_1: -729214081
+      Sheet spelling+MC male 2_10: -1621354376
+      Sheet spelling+MC male 2_11: -2052157179
+      Sheet spelling+MC male 2_12: 549364165
+      Sheet spelling+MC male 2_13: 827476009
+      Sheet spelling+MC male 2_14: -1830861430
+      Sheet spelling+MC male 2_15: -1866905412
+      Sheet spelling+MC male 2_16: 1175830143
+      Sheet spelling+MC male 2_17: 1568031792
+      Sheet spelling+MC male 2_18: -1294209287
+      Sheet spelling+MC male 2_19: -993331963
+      Sheet spelling+MC male 2_2: -153814196
+      Sheet spelling+MC male 2_20: 460863904
+      Sheet spelling+MC male 2_21: 1979526495
+      Sheet spelling+MC male 2_22: 331166624
+      Sheet spelling+MC male 2_23: -1300519863
+      Sheet spelling+MC male 2_24: 1118267608
+      Sheet spelling+MC male 2_25: 1715998317
+      Sheet spelling+MC male 2_26: 1677580022
+      Sheet spelling+MC male 2_27: -1272945978
+      Sheet spelling+MC male 2_28: 139718968
+      Sheet spelling+MC male 2_29: -550871790
+      Sheet spelling+MC male 2_3: 1274557129
+      Sheet spelling+MC male 2_30: -479451462
+      Sheet spelling+MC male 2_31: -1731935496
+      Sheet spelling+MC male 2_32: -2073091314
+      Sheet spelling+MC male 2_33: -1250063681
+      Sheet spelling+MC male 2_34: -151811929
+      Sheet spelling+MC male 2_35: -335952746
+      Sheet spelling+MC male 2_36: -1324070175
+      Sheet spelling+MC male 2_37: 1563124321
+      Sheet spelling+MC male 2_38: -1140532396
+      Sheet spelling+MC male 2_39: 558720867
+      Sheet spelling+MC male 2_4: 373706055
+      Sheet spelling+MC male 2_40: 770462538
+      Sheet spelling+MC male 2_41: -134485451
+      Sheet spelling+MC male 2_42: 848972655
+      Sheet spelling+MC male 2_43: -817867937
+      Sheet spelling+MC male 2_5: -919955352
+      Sheet spelling+MC male 2_6: -1436884898
+      Sheet spelling+MC male 2_7: -531456927
+      Sheet spelling+MC male 2_8: 811061443
+      Sheet spelling+MC male 2_9: 910054626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

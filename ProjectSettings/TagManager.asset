@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Log
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -48,9 +49,24 @@ TagManager:
   - name: Tilemap
     uniqueID: 1242828013
     locked: 0
+  - name: jembatan
+    uniqueID: 1072810223
+    locked: 0
   - name: Tree
     uniqueID: 1943738313
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: NPC
+    uniqueID: 1232483333
+    locked: 0
+  - name: Player
+    uniqueID: 54478555
+    locked: 0
+  - name: pelabuhan
+    uniqueID: 2061079475
+    locked: 0
+  - name: ' kepala laud'
+    uniqueID: 1961362851
     locked: 0
